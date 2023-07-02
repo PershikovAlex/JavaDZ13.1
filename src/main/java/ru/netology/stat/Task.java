@@ -2,7 +2,7 @@ package ru.netology.stat;
 
 import java.util.Objects;
 
-public abstract class Task {
+public class Task {
     protected int id;
 
     public Task(int id) {
